@@ -1,0 +1,10 @@
+C:\Users\Kosta\Downloads\Menjacnica\kosta projekat\projekat.menjacnica\bin\Debug\projekat.menjacnica.exe
+C:\Users\Kosta\Downloads\Menjacnica\kosta projekat\projekat.menjacnica\bin\Debug\projekat.menjacnica.pdb
+C:\Users\Kosta\Downloads\Menjacnica\kosta projekat\projekat.menjacnica\obj\x86\Debug\projekat.menjacnica.csprojResolveAssemblyReference.cache
+C:\Users\Kosta\Downloads\Menjacnica\kosta projekat\projekat.menjacnica\obj\x86\Debug\projekat.menjacnica.exe
+C:\Users\Kosta\Downloads\Menjacnica\kosta projekat\projekat.menjacnica\obj\x86\Debug\projekat.menjacnica.pdb
+C:\Users\Kosta\Downloads\exchange-office-master\exchange-office-master\projekat.menjacnica\obj\x86\Debug\projekat.menjacnica.exe
+C:\Users\Kosta\Downloads\exchange-office-master\exchange-office-master\projekat.menjacnica\obj\x86\Debug\projekat.menjacnica.pdb
+C:\Users\Kosta\Downloads\exchange-office-master\exchange-office-master\projekat.menjacnica\bin\Debug\projekat.menjacnica.exe
+C:\Users\Kosta\Downloads\exchange-office-master\exchange-office-master\projekat.menjacnica\bin\Debug\projekat.menjacnica.pdb
+C:\Users\Kosta\Downloads\exchange-office-master\exchange-office-master\projekat.menjacnica\obj\x86\Debug\projekat.menjacnica.csprojResolveAssemblyReference.cache
